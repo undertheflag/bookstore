@@ -1,2 +1,5 @@
 # bookstore 
-if you wanna test the app, you should first dump the *dump.sql* file into your localhost
+If you wanna test the app, you should first dump the *dump.sql* file into your localhost.
+
+This is a project for practice coming from **Learning PHP 7**
+
