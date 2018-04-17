@@ -1,0 +1,22 @@
+{
+	"name": "Shenzhen/bookstore",
+    "description": "Manages an online bookstore.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cheng ChiaHsiang",
+            "email": "maigebaoer@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "twig/twig": "^2.4"
+    },
+	"autoload": {
+		"psr-4": {
+			"Bookstore\\": "src"
+		}
+	}
+}
